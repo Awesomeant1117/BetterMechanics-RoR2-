@@ -1,0 +1,43 @@
+-To install the modpack-
+
+   1. Open your steam library and find Risk of Rain 2
+   2. Right click the game, find 'Properties' at the bottom and click it
+   3. Click the 'Local Files' tab, and click 'Browse Local Files'
+   4. unzip the Modpack folder and drag its contents into your Risk of Rain 2 directory
+   5. Done!
+
+If you wish to modify some of the mods, mess around with the values in the 'config' folder
+
+How to use some of the included mods:
+
+   Save Current Game: F5
+   Load Previous Save: F8
+   WORKS IN MULTIPLAYER
+
+Drop Item: Hold Tab and click the item you want to drop
+
+Stats: Hold tab and view stats on the right
+
+-------------------------MOD LIST-------------------------
+
+Quality of Life Mods:
+
+   Pings last 60 Minutes
+   Pings are more accurate
+   Pinging an enemy will cause all drones you own to attack target
+   Stats Display
+   Ordered items (By rarity)
+   Item Counter (Counts total items)
+   Lunar coins are now marked when dropped
+   Empty chests will despawn after a few seconds
+
+Mechanic Mods:
+
+   Balanced obliterate (Gives more coins based on stages completed and difficulty)
+   Bigger bazaar (Gold is saved at the end of a stage to be used in bazaar)
+   Drones and turrets now inherit your items just like Engineer's turrets
+   Drones can be controlled if you die and have atleast one left (Once per stage)
+   Drop items
+   Drop in multiplayer (Allows your friends to join you and play mid-game. Requires Private Lobby)
+   Lunar coins are now shared with everyone in the game when picked up
+   Save/Load
